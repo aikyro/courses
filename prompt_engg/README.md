@@ -117,17 +117,3 @@ Run cells sequentially to observe prompt behavior across models.
 * Include ReAct-style prompts
 * Introduce prompt evaluation metrics
 * Add comparison tables for model outputs
-
----
-
-## 👤 Author
-
-**Mebin Sam**
-B.Tech Computer Science
-Prompt Engineering & AI Enthusiast
-
----
-
-## 📜 License
-
-This project is for **educational and learning purposes**.
